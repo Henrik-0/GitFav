@@ -1,6 +1,6 @@
 # GitFav
 
-Visite o site: https://henrik-0.github.io/GitFav/
+Visite o site: https://henrikRod.github.io/GitFav/
 
 Projeto desenvolvido no stage06 da Rocketseat, até o momento é o projeto que achei mais complexo de desenvolver.
 
