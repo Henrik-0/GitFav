@@ -1,22 +1,22 @@
 # GitFav
 
-Visite o site: https://henrik-0.github.io/GitFav/
+Website link: https://henrik-0.github.io/GitFav/
 
-Projeto desenvolvido no stage06 da Rocketseat, até o momento é o projeto que achei mais complexo de desenvolver.
-
----
-
-### Descrição 
-
-Utiliza-se a api do github para buscar as informações do usuário digitado no input, retornando o nome, username, repositórios e seguidores.
+Project made on stage06 of [Rocktseat](https://app.rocketseat.com.br/dashboard), until now it has been the most difficult project.
 
 ---
 
-### Conteúdos trabalhados 
+### Description 
 
-+ Desestruturação de objetos;
-+ Modulação;
-+ Utilização de api;
-+ localStorage para guardar os dados;
+It uses the github api to search and get the information about the user entered in the input, returning the name, username, repositories and followers.
+
+---
+
+### Worked content
+
++ Object destructuring;
++ Modulation;
++ API;
++ localStorage to store the data;
 + DOM;
-+ Tabelas.
++ Tables.
