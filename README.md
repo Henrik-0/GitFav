@@ -1,6 +1,6 @@
 # GitFav
 
-Website link: https://henrik-0.github.io/GitFav/
+Website link: https://henrikRod.github.io/GitFav/
 
 Project made on stage06 of [Rocktseat](https://app.rocketseat.com.br/dashboard), until now it has been the most difficult project.
 
