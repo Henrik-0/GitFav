@@ -68,9 +68,9 @@ export class FavoritesView extends Favorites{
       row.querySelector(".followers").textContent = `${user.followers}`;
 
       row.querySelector(".remove").addEventListener("click", () => {
-        confirm(`Tem certeza que deseja deletar ${user.name} da lista?`);
+        const canDelete = confirm(`Tem certeza que deseja deletar ${user.name} da lista?`);
 
-        if(confirm) {
+        if(canDelete) {
           this.delete(user);
         };
       });
